@@ -1,1 +1,1 @@
-"# bridgeCards" 
+Small tool to generate playing cards in SVG.

@@ -1,0 +1,14 @@
+{
+  "name": "bridge-cards",
+  "version": "1.0.0",
+  "description": "A small tool to render cards in SVG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuffy",
+  "license": "ISC",
+  "dependencies": {
+    "svg.js": "^2.3.0"
+  }
+}
